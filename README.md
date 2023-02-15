@@ -36,6 +36,6 @@ Project 6: Regression Models
   project link: https://github.com/cs320-wisc/f22/tree/main/p6#readme
   
   
-P7: Selling Laptops: Smart Marketing (Create ny own Regression Model!)
+Project 7 (main.py): Selling Laptops: Smart Marketing (Create ny own Regression Model!)
     overview: using given data to construct different regression models to get the best idea of customers interested in promotion emails.
     project link: https://github.com/cs320-wisc/f22/tree/main/p7#readme
